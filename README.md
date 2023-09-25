@@ -23,11 +23,11 @@ You can see a live demo of this To-Do List app [here](#).
 - Delete tasks.
 - Local storage support to save tasks across sessions.
 
-## Usage
+## How it Works
+The application uses HTML for the structure, CSS for styling, and JavaScript for functionality. Here's a brief overview of the main files and their functions:
 
-To use this To-Do List app, follow these steps:
+`index.html`: Contains the structure of the web page, including the task list, input field, and buttons.
 
-1. Clone the repository to your local machine:
+`style.css`: Defines the styles and layout for the web page, including the appearance of tasks and buttons.
 
-   ```bash
-   git clone https://github.com/your-username/todo-list.git
+`script.js`: Implements the core functionality of the To-Do List app, including adding, marking, and deleting tasks. It also handles local storage to save and load tasks.
