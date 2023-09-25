@@ -18,11 +18,11 @@ You can see a live demo of this To-Do List app [here](#).
 ## How it Works
 The application uses HTML for the structure, CSS for styling, and JavaScript for functionality. Here's a brief overview of the main files and their functions:
 
-# index.html:
+### index.html:
 Contains the structure of the web page, including the task list, input field, and buttons.
 
-# style.css: 
+### style.css: 
 Defines the styles and layout for the web page, including the appearance of tasks and buttons.
 
-# script.js: 
+### script.js: 
 Implements the core functionality of the To-Do List app, including adding, marking, and deleting tasks. It also handles local storage to save and load tasks.
