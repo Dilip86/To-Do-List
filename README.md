@@ -3,15 +3,6 @@
 
 This is a simple To-Do List web application created using HTML, CSS, and JavaScript. It allows users to add tasks, mark them as completed, and delete them. The tasks are stored locally in the browser's storage.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Usage](#usage)
-- [How it Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 
 You can see a live demo of this To-Do List app [here](#).
