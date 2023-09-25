@@ -1,5 +1,6 @@
 
 # To-Do List Web Application
+![Screenshot 2023-09-25 234802](https://github.com/Dilip86/To-Do-List/assets/97818951/75f7a77b-43eb-425d-8e64-1cde459bb44f)
 
 This is a simple To-Do List web application created using HTML, CSS, and JavaScript. It allows users to add tasks, mark them as completed, and delete them. The tasks are stored locally in the browser's storage.
 
